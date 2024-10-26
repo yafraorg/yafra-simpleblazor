@@ -43,3 +43,8 @@ msbuild.err
 msbuild.wrn
 
 dist/
+
+node_modules/
+
+simpleblazor/wwwroot/simpleblazor.css
+simpleblazor/wwwroot/simpleblazor.css.map

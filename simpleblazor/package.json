@@ -1,0 +1,15 @@
+{
+  "name": "yafra-simpleblazor",
+  "version": "1.0.0",
+  "description": "simple blazor based service",
+  "main": "index.html",
+  "scripts": {
+    "css": "sass wwwroot/simpleblazor.scss wwwroot/simpleblazor.css",
+    "clean": "rm wwwroot/simpleblazor.cs*"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.80.4"
+  }
+}
